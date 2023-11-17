@@ -1,0 +1,31 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.4",
+    "framer-motion": "^10.13.1",
+    "next": "13.4.4",
+    "next-compose-plugins": "^2.2.1",
+    "next-pwa": "^5.6.0",
+    "next-with-workbox": "^3.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-loader-spinner": "^5.3.4",
+    "react-query": "^3.39.3",
+    "react-uuid": "^2.0.0",
+    "recoil": "^0.7.7",
+    "sharp": "^0.32.1",
+    "styled-components": "^5.3.11",
+    "workbox-core": "^7.0.0"
+  }
+}

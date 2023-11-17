@@ -1,0 +1,106 @@
+{
+  "id": "com.luya.app",
+  "name": "신앙도우미 루야",
+  "short_name": "신앙도우미 루야",
+  "description": "Luya는 성경 AI와 다양한 기도제목을 활용하여 신앙 생활을 돕는 서비스입니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "lang": "ko",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "기도 제목",
+      "description": "기도 제목을 빠르게 보기",
+      "url": "/pray"
+    },
+    {
+      "name": "성경AI",
+      "description": "나의 고민/질문 물어보기",
+      "url": "/advice"
+    }
+  ],
+  "launch_handler": {
+    "route_to": "auto"
+  },
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "categories": [
+    "lifestyle",
+    "education",
+    "health"
+  ],
+  "url_schemes": ["kakao67a99bbee8ec31cf8dc7c3ee98a95201"],
+  "handle_links": "preferred",
+  "icons": [
+    {
+      "src": "/img/logo/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/logo/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo/icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/img/logo/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

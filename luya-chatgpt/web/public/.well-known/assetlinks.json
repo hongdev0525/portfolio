@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kr.co.luya.twa",
+    "sha256_cert_fingerprints": [
+    "BB:9B:F0:CD:C2:0F:E1:03:8D:75:E4:EF:1A:B5:4E:8D:5C:10:65:28:D8:1B:3C:1E:C7:E1:FA:64:02:8E:55:C6",
+    "A5:73:51:AB:DE:08:7E:C0:4C:FD:80:6A:00:AC:84:AC:D0:A0:7C:A8:28:97:4C:F3:05:A7:BC:68:9C:82:D3:44"
+  ]
+  }
+}]
